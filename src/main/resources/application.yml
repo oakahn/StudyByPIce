@@ -1,0 +1,4 @@
+server:
+  servlet:
+    context-path: /inf
+  port: 9000
